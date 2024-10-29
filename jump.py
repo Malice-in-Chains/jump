@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-# jump.py Allows you to set a specific directory (-s) that you can jump back to later without excessive typing of the full directory
 # Written by MaliceInChains - maliceinchains106@gmail.com 
+# -----------------------------------------------------------------
+# jump.py Allows you to set a specific directory (-s) that you can jump back to later without excessive typing of the full directory
+# -----------------------------------------------------------------
 
 import os
 import sys
