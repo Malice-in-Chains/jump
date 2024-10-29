@@ -1,3 +1,9 @@
+#!/bin/bash
+# Written by MaliceInChains - maliceinchains106@gmail.com 
+# -----------------------------------------------------------------
+# jump.sh Allows you to set a specific directory (-s) that you can jump back to later without excessive typing of the full directory
+# -----------------------------------------------------------------
+
 jump() {
     local jump_file="$HOME/.jump"
 
